@@ -27,15 +27,15 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 # Homepage (News Feed) ├── /article.html # News Articles page ├── /contact.html
 # Contact Form page ├── /submit_form.php # Backend script to handle contact form submissions └── README.md 
 # Project documentation (this file)
-project Screenshots 
-screenshot1.jpg
-https://github.com/cannavaro2010/Milestone.nov24/blob/main/image03.jpg
-
-https://github.com/cannavaro2010/Milestone.nov24/blob/main/image02.jpg
+## Project Screenshots 
 
 
 
----
+![image03](https://github.com/user-attachments/assets/6ea63db1-6ad2-4456-b049-9e9b2916738f)
+
+![image02](https://github.com/user-attachments/assets/4ee8b6c5-d5e4-42f4-91a3-b761e87c3e86)
+
+![screenshot1](https://github.com/user-attachments/assets/3e39b6c0-691d-4cae-a171-3284859f57c5)
 
 ## Technologies Used
 
