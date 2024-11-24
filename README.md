@@ -7,6 +7,9 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 ### Created By:
 **Youssef Abassir**
 
+## Project deployed link :
+https://cannavaro2010.github.io/Milestone.nov24/index.html
+
 ### Feel free to use it!
 
 ---
@@ -82,6 +85,11 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 4. **Font Awesome**:
    - Used for social media icons (Facebook, Instagram, Twitter).
    - Website: [Font Awesome](https://fontawesome.com/)
+
+5.**Codes Html Css Bootstrap**:
+  -https://www.w3schools.com/
+  -https://getbootstrap.com/
+  
 
 ---
 
