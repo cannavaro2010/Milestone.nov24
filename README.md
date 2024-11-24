@@ -28,8 +28,7 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 # Contact Form page ├── /submit_form.php # Backend script to handle contact form submissions └── README.md 
 # Project documentation (this file)
 project Screenshots 
-https://github.com/cannavaro2010/Milestone.nov24/blob/main/screenshot1.jpg
-
+screenshot1.jpg
 https://github.com/cannavaro2010/Milestone.nov24/blob/main/image03.jpg
 
 https://github.com/cannavaro2010/Milestone.nov24/blob/main/image02.jpg
