@@ -1,1 +1,173 @@
 
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3 {
+    color: #333;
+}
+
+h5 {
+    color: #444;
+}
+
+/* Navbar Styles */
+.navbar {
+    background-color: #007bff;
+}
+
+.navbar-brand {
+    font-size: 1.8em;
+    color: white;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    color: white !important;
+}
+
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important;
+}
+
+.navbar-nav {
+    margin-left: auto; /* Ensures the items align properly */
+}
+
+/* Navbar Item Spacing */
+.navbar-nav .nav-item {
+    margin-right: 20px; /* Adds space between navbar items */
+}
+
+/* Main Content */
+.container {
+    margin-top: 30px;
+}
+
+/* Card Styles for News Articles */
+.card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s ease-in-out;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-img-top {
+    border-radius: 10px 10px 0 0;
+    height: 200px;
+    object-fit: cover;
+}
+
+.card-body {
+    background-color: #fff;
+}
+
+.card-title {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 0.95em;
+    color: #555;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 10px 0;
+}
+
+/* Contact Form Styles */
+form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+form .form-label {
+    font-weight: bold;
+}
+
+form .form-control {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 12px;
+}
+
+form .form-control:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+form .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    padding: 10px 15px;
+    font-size: 1.1em;
+    border-radius: 5px;
+}
+
+form .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Media Queries for Responsiveness */
+@media (max-width: 767px) {
+    .navbar-brand {
+        font-size: 1.5em;
+    }
+
+    .navbar-nav .nav-item {
+        margin-right: 15px; /* Reduces the margin for smaller screens */
+    }
+
+    .card {
+        margin-bottom: 20px;
+    }
+
+    .card-img-top {
+        height: 150px;
+    }
+
+    .container {
+        padding: 0 15px;
+    }
+
+    .form-control, .btn-primary {
+        font-size: 1em;
+    }
+}
+
+@media (max-width: 575px) {
+    .navbar-brand {
+        font-size: 1.3em;
+    }
+
+    .navbar-nav .nav-item {
+        margin-right: 10px; /* Even smaller spacing on very small screens */
+    }
+
+    .card {
+        margin-bottom: 15px;
+    }
+
+    .form-label, .form-control {
+        font-size: 1em;
+    }
+
+    .card-img-top {
+        height: 180px;
+    }
+}
