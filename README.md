@@ -36,11 +36,11 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 
 
-![image03]((https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot2.jpg))
+![image03](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot2.jpg)
 
-![image02]((https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot3.jpg))
+![image02](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot3.jpg)
 
-![screenshot1]((https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screentshot01.jpg))
+![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screentshot01.jpg)
 
 ## Technologies Used
 
