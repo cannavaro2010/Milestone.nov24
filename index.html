@@ -5,129 +5,99 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Newspaper Homepage</title>
     <script src="https://kit.fontawesome.com/731d39dab4.js" crossorigin="anonymous"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <!-- Bootstrap 5 CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom Stylesheet -->
     <link rel="stylesheet" href="Css/Stylesheet.css">
 </head>
 <body>
-    <!-- Navbar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <div class="container">
-            <a class="navbar-brand" href="index.html">News Daily</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav ms-auto"> <!-- 'ms-auto' pushes the nav items to the right -->
-                    <li class="nav-item px-3"> <!-- 'px-3' gives horizontal padding -->
-                        <a class="nav-link" href="index.html">Home</a>
-                    </li>
-                    <li class="nav-item px-3"> <!-- 'px-3' gives horizontal padding -->
-                        <a class="nav-link" href="article.html">Articles</a>
-                    </li>
-                    <li class="nav-item px-3"> <!-- 'px-3' gives horizontal padding -->
-                        <a class="nav-link" href="contact.html">Contact</a>
-                    </li>
-                </ul>
+
+<!-- Navbar -->
+
+<nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+    <div class="container-fluid"> <!-- Use container-fluid for full width -->
+        <!-- Logo -->
+        <a class="navbar-brand" href="index.html">
+            <img src="img/logo.png" height="50" width="auto" alt="logo"> <!-- Adjust logo size -->
+        </a>
+
+        <!-- Navbar Toggler (Hamburger icon for mobile) -->
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <!-- Navbar Links -->
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav ms-auto"> <!-- ms-auto pushes navbar links to the right -->
+                <li class="nav-item px-3">
+                    <a class="nav-link" href="index.html">Home</a>
+                </li>
+                <li class="nav-item px-3">
+                    <a class="nav-link" href="article.html">Articles</a>
+                </li>
+                <li class="nav-item px-3">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<!-- Main Content -->
+<div class="container my-5">
+    <h2 class="text-center">Latest News</h2>
+    <p class="text-center mb-4">Stay updated with the most recent events and articles.</p>
+
+    <!-- News Articles Section -->
+    <div class="row justify-content-center">
+        <!-- News Article 1 -->
+        <div class="col-md-8 mb-4">
+            <div class="card">
+                <img src="img/skynews-bert-comp_6756820.jpg" class="card-img-top" alt="News 1">
+                <div class="card-body">
+                    <h5 class="card-title">'It's really important that we do learn lessons'</h5>
+                    <p class="card-text">
+                        Natural Resources Wales (NRW) says it will think about what lessons it can learn from its response to flooding across Wales in the coming days and weeks.
+                        Residents in South Wales have seen their homes destroyed by flooding caused by Storm Bert.
+                    </p>
+                    <a href="article.html" class="btn btn-primary">Read More</a>
+                </div>
             </div>
         </div>
-    </nav>
-    
 
-    <!-- Main Content -->
-    <div class="container my-4">
-        <h1 class="text-center">Latest News</h1>
-        
-        <div class="row">
-            <!-- News Article 1 -->
-            <div class="col-md-4 mb-4">
-                <div class="card">
-                    <img src="skynews-bert-comp_6756820.jpg" class="card-img-top" alt="News 1">
-                    <div class="card-body">
-                        <h5 class="card-title">'It's really important that we do learn lessons'</h5>
-                        <p class="card-text">
-                            Natural Resources Wales (NRW) says it will think about what lessons it can learn from its response to flooding across Wales in the coming days and weeks.
-                            
-                            Residents in South Wales have seen their homes destroyed by flooding caused by Storm Bert.
-                            
-                            In Pontypridd, where properties were devastated after the River Taff burst its banks, residents hit out at NRW, claiming it had not done enough to prevent flooding (see 15.30 post).
-                            
-                            Some said that flood defences deployed by NRW did not work, and that warnings about severe flooding came too late.
-                            
-                            In response, Sian Williams, NRW's head of operations for northwest Wales, says its current priority is to reduce the risk of flooding as much as possible.
-                            
-                            "After that, and over the coming days and weeks, we will look at what happened, what was predicted to happen, what actually happened, and we will start to think about lessons we can learn," she told Sky News.
-                            
-                            "Are there things that could be done differently in the future? Was there anything that went wrong? Are there things we can do better as a collective? And are there things that communities can do to help themselves? 
-                            
-                            "All of this will happen as a review of this event, and it's really important we do learn lessons from any event."
-                            
-                            You can watch the full interview below.</p>
-                        <a href="article.html" class="btn btn-primary">Read More</a>
-                    </div>
+        <!-- News Article 2 -->
+        <div class="col-md-8 mb-4">
+            <div class="card">
+                <img src="img/skynews-ukraine-russia-kyiv_6756498.jpg" class="card-img-top" alt="News 2">
+                <div class="card-body">
+                    <h5 class="card-title">Ukraine war: Russia launches drone strike on Kyiv</h5>
+                    <p class="card-text">
+                        Russia launched a large drone attack on Kyiv overnight, with Volodymyr Zelenskyy warning the attack shows his capital needs better air defences.
+                        Ukraine's air defence units shot down 50 of 73 Russian drones launched, with no immediate reports of damage or injuries as a result of the attacks.
+                    </p>
+                    <a href="article.html" class="btn btn-primary">Read More</a>
                 </div>
             </div>
-            <!-- News Article 2 -->
-            <div class="col-md-4 mb-4">
-                <div class="card">
-                    <img src="skynews-ukraine-russia-kyiv_6756498.jpg" class="card-img-top" alt="News 2">
-                    <div class="card-body">
-                        <h5 class="card-title">Ukraine war: Russia launches drone strike on Kyiv</h5>
-                        <p class="card-text">Russia launched a large drone attack on Kyiv overnight, with Volodymyr Zelenskyy warning the attack shows his capital needs better air defences.
+        </div>
 
-                            Ukraine's air defence units shot down 50 of 73 Russian drones launched, with no immediate reports of damage or injuries as a result of the attacks.
-                            
-                            Russia has used more than 800 guided aerial bombs and around 460 attack drones in the past week.
-                            
-                            Warning that Ukraine needs to improve its air defences, Ukrainian President Volodymyr Zelenskyy said: "An air alert has been sounded almost daily across Ukraine this week".
-                            
-                            "Ukraine is not a testing ground for weapons. Ukraine is a sovereign and independent state.
-                            
-                            "But Russia still continues its efforts to kill our people, spread fear and panic, and weaken us."
-                            
-                            Russia did not comment on the attack.
-                            
-                            It comes as Russian media reported that Colonel General Gennady Anashkin, the commander of the country's southern military district, had been removed from his role over allegedly providing misleading reports about his troops' progress.
-                            
-                            While Russian forces have advanced at the fastest rate in Ukraine since the start of the invasion, forces have been much slower around Siversk and the eastern region of Donetsk.
-                            
-                            Read more:
-                            Russia 'ready to hit UK with cyber attacks'
-                            Lack of defensive shield must ring alarm bells
-                            Putin threatens West with 'unstoppable' missile
-                            
-                            Russian war bloggers have long complained that units there are poorly supported and thrown into deadly battles for little tactical gain.
-                            
-                            Russia's ministry of defence has not commented on the reports.</p>
-                        <a href="article.html" class="btn btn-primary">Read More</a>
-                    </div>
-                </div>
-            </div>
-            <!-- News Article 3 -->
-            <div class="col-md-4 mb-4">
-                <div class="card">
-                    <img src="0_UK-weather-maps-show-cold-on-way.png" class="card-img-top" alt="News 3">
-                    <div class="card-body">
-                        <h5 class="card-title">After Storm Bert UK weather maps show Brits set for -2C chill as temperatures plunge</h5>
-                        <p class="card-text">Britain is set to feel “much colder” as Met Office maps have indicated that a frosty sub-zero chill is preparing to take over the nation.
-
-                            After a few weeks of milder weather conditions, the national forecaster has warned that there is an “increasing risk of rain and snow”.
-                            Now that the "anticyclonic gloom" has shifted, colder air will be permitted to sweep the nation in the second half of November.
-                            To begin with, the Met Office has forecast that “hazy spells of sunshine” will be substituted with “cloud and patchy rain across northern and western parts” tonight.
-
-                            The far north is predicted to be battered by “scattered wintry blustery showers” and will settle down with “clear spells leading to a cold and frosty night”.
-                            
-                            Higher ground in the north is due to see some heavy rain and possibly snow, while the wider country might see some snowfall covering later on in the week.
-                            
-                            On the whole, the week ahead is set to be “colder and windier” with “frosty mornings” with temperatures dipping below freezing in some parts of Scotland in areas near Edinburgh and Glasgow.</p>
-                        <a href="article.html" class="btn btn-primary">Read More</a>
-                    </div>
+        <!-- News Article 3 -->
+        <div class="col-md-8 mb-4">
+            <div class="card">
+                <img src="img/0_UK-weather-maps-show-cold-on-way.png" class="card-img-top" alt="News 3">
+                <div class="card-body">
+                    <h5 class="card-title">After Storm Bert UK weather maps show Brits set for -2C chill</h5>
+                    <p class="card-text">
+                        Britain is set to feel “much colder” as Met Office maps have indicated that a frosty sub-zero chill is preparing to take over the nation.
+                        After a few weeks of milder weather conditions, the national forecaster has warned that there is an “increasing risk of rain and snow”.
+                    </p>
+                    <a href="article.html" class="btn btn-primary">Read More</a>
                 </div>
             </div>
         </div>
     </div>
+</div>
 
-    <!-- Footer -->
-    <!-- Footer -->
+<!-- Footer -->
 <footer class="text-center mt-5 py-3 bg-dark text-white">
     <p>&copy; 2024 News Daily | All rights reserved</p>
     <div class="social-icons">
@@ -143,10 +113,8 @@
     </div>
 </footer>
 
-<!-- Font Awesome CDN -->
-<script src="https://kit.fontawesome.com/a076d05399.js"></script>
+<!-- Bootstrap 5 JS and dependencies -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 
-
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
