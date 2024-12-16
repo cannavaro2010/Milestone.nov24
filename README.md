@@ -45,7 +45,7 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 ## Project Wireframe
 
 
-![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/commit/a56e27da3ed37abb9b03202f2e2ed22643c3bd5c)
+![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/wireframe.jpg)
 
 ## Technologies Used
 
