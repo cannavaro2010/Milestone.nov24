@@ -40,7 +40,7 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 [![image02](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot3.jpg)](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/screenshot3%20for%20readme%20purpose%20.jpg)
 
-[![screenshot1]Img/](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/screentshot01%20for%20readme%20purpose%20.jpg)
+![screenshot](Img/readme-screenshot01.jpg)
 
 ## Project Wireframe
 
