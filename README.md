@@ -36,16 +36,16 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 
 
-![image03](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot2.jpg)
+[![image03](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot2.jpg)](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/screenshot-02%20for%20readme%20purpose.jpg)
 
-![image02](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot3.jpg)
+[![image02](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screenshot3.jpg)](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/screenshot3%20for%20readme%20purpose%20.jpg)
 
-![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/screentshot01.jpg)
+[![screenshot1]Img/](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/screentshot01%20for%20readme%20purpose%20.jpg)
 
 ## Project Wireframe
 
 
-![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/wireframe.jpg)
+[![screenshot1](https://github.com/cannavaro2010/Milestone.nov24/blob/main/Img/wireframe.jpg)](https://github.com/cannavaro2010/Milestone.nov24/blob/74a37fb8d98601deef71e639f0d2ad90b25f0789/Img/Wireframe%20(1).jpg)
 
 ## Technologies Used
 
