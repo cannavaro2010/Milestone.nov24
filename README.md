@@ -6,6 +6,23 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 
 ### Created By:
 **Youssef Abassir**
+Details of Value
+Our website offers a unique and engaging platform for users to stay informed and connected with the latest news. By visiting our site, web users can expect to gain a range of valuable benefits that cater to diverse interests and needs.
+
+What Users Gain from Our Website:
+Up-to-Date Information: Our website provides real-time news updates, ensuring that users are always informed of the latest events from around the world. Whether it's breaking news or in-depth analysis, we have it covered.
+
+Comprehensive Coverage: We cover a wide variety of topics, including politics, technology, entertainment, health, sports, and more. This ensures that every visitor finds relevant information tailored to their interests.
+
+User-Friendly Interface: With a clean and intuitive design, our website makes it easy for users to navigate and quickly find the news they care about. Whether you're using a desktop or mobile device, we offer a seamless experience.
+
+Reliable and Trustworthy Sources: We source our content from credible and reputable outlets, ensuring that users receive factual, unbiased, and accurate information.
+
+Engagement and Interaction: Beyond just reading news, users can engage with content through comments, shares, and social media integration. This allows for a dynamic and interactive user experience.
+
+Personalized Content: We offer customizable news feeds, allowing users to select and prioritize topics that matter most to them, ensuring a tailored experience.
+
+By leveraging these features, we aim to empower our users with knowledge, foster awareness, and encourage thoughtful discussions on current events.
 
 ## Project deployed link :
 https://cannavaro2010.github.io/Milestone.nov24/index.html
@@ -78,17 +95,17 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 ## External Resources Used
 
-1. **Google Images API**:
+1. **Google Images **:
    - Used to fetch relevant images for the articles.
-   - API documentation: [Google Custom Search API](https://developers.google.com/custom-search/v1/overview)
+   - [Visit our website] : [Visit our website](https://developers.google.com/)
 
-2. **Sky News API**:
+2. **Sky News **:
    - Used to fetch the latest news articles.
-   - API documentation: [Sky News API](https://developer.sky.com/docs/news-api)
+   - API documentation : [Visit our website](https://developer.sky.com/)
 
-3. **UK Weather API**:
+3. **UK Weather **:
    - Provides real-time weather data.
-   - API documentation: [UK Weather API](https://www.metoffice.gov.uk/services/data)
+   - API documentation : [Visit our website](https://www.metoffice.gov.uk)
 
 4. **Font Awesome**:
    - Used for social media icons (Facebook, Instagram, Twitter).
@@ -97,6 +114,9 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 5.**Codes Html Css Bootstrap**:
   -https://www.w3schools.com/
   -https://getbootstrap.com/
+
+6.**Video**:
+  -https://www.youtube.com/
   
 
 ---
@@ -105,8 +125,31 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 - **Web Browser**: Any modern web browser (Chrome, Firefox, Safari, Edge).
 - **Internet Connection**: Required to load images from Google and news/weather data from the APIs.
-- **Server**: To run the PHP backend script (`submit_form.php`) for the contact form. You can use **XAMPP** or **MAMP** for local development or deploy it to a live server.
-  
+- **Server**: To run the PHP backend script (`submit_form.php`) for the contact form. You can use **XAMPP** or **MAMP** for local
+  development or deploy it to a live server.
+
+### Testing and Validation Tools Used
+
+To ensure the quality, performance, and accessibility of the website, we utilized a combination of industry-standard tools for testing and validation. Here is an overview of the tools used:
+
+1. W3C HTML Validator
+The W3C HTML Validator is a tool provided by the World Wide Web Consortium (W3C) that helps ensure web pages follow HTML standards. It checks for syntax errors, missing tags, incorrect nesting, and other common issues that may affect the page’s structure and functionality. This tool is crucial for ensuring that the HTML code is both valid and semantically correct.
+
+
+
+3. Jigsaw
+Jigsaw is another tool provided by W3C, primarily used for testing the markup structure of web pages. It is similar to the W3C Validator but can offer more detailed insights into various markup and accessibility issues. The tool also highlights areas where the page structure deviates from established best practices.
+
+4. Lighthouse
+Lighthouse is an open-source, automated tool developed by Google that audits web pages for performance, accessibility, best practices, and SEO. It provides actionable insights and scores across these categories to help developers optimize their websites. By using Lighthouse, we can assess how well our website performs across different devices and improve user experience.
+
+Key Metrics Lighthouse Evaluates:
+
+Performance: Page load speed, interactive performance, and other key performance metrics.
+Accessibility: Ensures the site is usable by people with disabilities, including visual, auditory, and motor disabilities.
+Best Practices: Checks for issues related to security, code quality, and modern web development practices.
+SEO: Evaluates the search engine optimization of the site to ensure it ranks well in search results.
+These tools help us maintain a high standard for web development, ensuring that our site performs optimally, is accessible to all users, and follows best practices for modern web technologies. Regular testing with these tools allows us to identify and resolve issues quickly, providing a better user experience and maintaining our website's credibility.
 ### Steps to Run the Website Locally
 
 1. **Clone this repository**:
