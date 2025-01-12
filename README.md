@@ -135,7 +135,7 @@ To ensure the quality, performance, and accessibility of the website, we utilize
 1. W3C HTML Validator
 The W3C HTML Validator is a tool provided by the World Wide Web Consortium (W3C) that helps ensure web pages follow HTML standards. It checks for syntax errors, missing tags, incorrect nesting, and other common issues that may affect the page’s structure and functionality. This tool is crucial for ensuring that the HTML code is both valid and semantically correct.
 
-[![screenshot](Img/rImg/validator.w3.jpg)]
+[![screenshot](Img/rImg/validator.w3.jpg)
 
 3. Jigsaw
 Jigsaw is another tool provided by W3C, primarily used for testing the markup structure of web pages. It is similar to the W3C Validator but can offer more detailed insights into various markup and accessibility issues. The tool also highlights areas where the page structure deviates from established best practices.
@@ -143,7 +143,7 @@ Jigsaw is another tool provided by W3C, primarily used for testing the markup st
 4. Lighthouse
 Lighthouse is an open-source, automated tool developed by Google that audits web pages for performance, accessibility, best practices, and SEO. It provides actionable insights and scores across these categories to help developers optimize their websites. By using Lighthouse, we can assess how well our website performs across different devices and improve user experience.
 
-[![screenshot](Img/lighthouse-report.jpg)]
+[![screenshot](Img/lighthouse-report.jpg)
 
 Key Metrics Lighthouse Evaluates:
 
