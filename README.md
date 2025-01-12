@@ -145,8 +145,15 @@ Lighthouse is an open-source, automated tool developed by Google that audits web
 
 ![screenshot](Img/lighthouse-report.jpg)
 
-Key Metrics Lighthouse Evaluates:
+5.Manual Testing:
+Identify usability or functionality issues.
+Ensure all elements are responsive and accessible.
+Confirm the site meets user expectations.
+please see the test table below:
+![screenshot](Img/table-test.jpg)
 
+
+Key Metrics Lighthouse Evaluates:
 Performance: Page load speed, interactive performance, and other key performance metrics.
 Accessibility: Ensures the site is usable by people with disabilities, including visual, auditory, and motor disabilities.
 Best Practices: Checks for issues related to security, code quality, and modern web development practices.
