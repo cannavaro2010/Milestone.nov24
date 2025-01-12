@@ -88,6 +88,17 @@ h5 {
     font-size: 0.95em;
     color: #555;
 }
+/* Vdeo */
+.video {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+}
+iframe{
+    border-radius:10px 10px 0 0; ;
+}
 
 /* Footer Styles */
 footer {
