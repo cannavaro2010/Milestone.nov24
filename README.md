@@ -52,17 +52,16 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 
 
-[![screenshot](Img/readme-screenshoot03.jpg)]
+![screenshot](Img/readme-screenshoot03.jpg)
 
-
-[![screenshot](Img/readme-screenshot02.png)]
+![screenshot](Img/readme-screenshot02.png)
 
 ![screenshot](Img/readme-screenshot01.jpg)
 
 ## Project Wireframe
 
 
-[![screenshot](Img/Wireframe(1).jpg)]
+![screenshot](Img/Wireframe(1).jpg)
 
 
 ## Technologies Used
@@ -142,6 +141,12 @@ Jigsaw is another tool provided by W3C, primarily used for testing the markup st
 
 4. Lighthouse
 Lighthouse is an open-source, automated tool developed by Google that audits web pages for performance, accessibility, best practices, and SEO. It provides actionable insights and scores across these categories to help developers optimize their websites. By using Lighthouse, we can assess how well our website performs across different devices and improve user experience.
+Key Metrics Lighthouse Evaluates:
+Performance: Page load speed, interactive performance, and other key performance metrics.
+Accessibility: Ensures the site is usable by people with disabilities, including visual, auditory, and motor disabilities.
+Best Practices: Checks for issues related to security, code quality, and modern web development practices.
+SEO: Evaluates the search engine optimization of the site to ensure it ranks well in search results.
+These tools help us maintain a high standard for web development, ensuring that our site performs optimally, is accessible to all users, and follows best practices for modern web technologies. Regular testing with these tools allows us to identify and resolve issues quickly, providing a better user experience and maintaining our website's credibility.
 
 ![screenshot](Img/lighthouse-report.jpg)
 
@@ -153,12 +158,6 @@ please see the test table below:
 ![screenshot](Img/table-test.jpg)
 
 
-Key Metrics Lighthouse Evaluates:
-Performance: Page load speed, interactive performance, and other key performance metrics.
-Accessibility: Ensures the site is usable by people with disabilities, including visual, auditory, and motor disabilities.
-Best Practices: Checks for issues related to security, code quality, and modern web development practices.
-SEO: Evaluates the search engine optimization of the site to ensure it ranks well in search results.
-These tools help us maintain a high standard for web development, ensuring that our site performs optimally, is accessible to all users, and follows best practices for modern web technologies. Regular testing with these tools allows us to identify and resolve issues quickly, providing a better user experience and maintaining our website's credibility.
 ### Steps to Run the Website Locally
 
 1. **Clone this repository**:
