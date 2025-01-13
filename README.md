@@ -70,9 +70,9 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 - **CSS**: Custom styling to make the website look visually appealing.
 - **Bootstrap 5**: Used for responsive design and grid layout.
 - **Font Awesome**: For social media icons (Facebook, Instagram, Twitter).
-- **Sky News API**: For fetching the latest news articles.
-- **UK Weather API**: For showing real-time weather data.
-- **Google Images API**: For displaying relevant images for articles (optional).
+- **Sky News **: For fetching the latest news articles.
+- **UK Weather **: For showing real-time weather data.
+- **Google Images **: For displaying relevant images for articles (optional).
 
 ---
 
@@ -100,11 +100,11 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 2. **Sky News **:
    - Used to fetch the latest news articles.
-   - API documentation : [Visit our website](https://developer.sky.com/)
+   - Documentation : [Visit our website](https://developer.sky.com/)
 
 3. **UK Weather **:
    - Provides real-time weather data.
-   - API documentation : [Visit our website](https://www.metoffice.gov.uk)
+   - Documentation : [Visit our website](https://www.metoffice.gov.uk)
 
 4. **Font Awesome**:
    - Used for social media icons (Facebook, Instagram, Twitter).
