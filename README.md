@@ -1,7 +1,7 @@
-# News Daily Website
+# Daily News Website
 
 This project is a simple **newspaper website** built using **HTML**, **CSS**, and **Bootstrap**, featuring a responsive layout with news articles, 
-weather information, and social media icons. The website uses real-time information from **Google Images**, **Sky News**, and **UK Weather API** to display news and weather data.
+weather information, and social media icons. The website uses real-time information from **Google Images**, **Sky News**, and **UK Weather ** to display news and weather data.
 Additionally, it integrates **Font Awesome** for social media icons in the footer.
 
 ### Created By:
