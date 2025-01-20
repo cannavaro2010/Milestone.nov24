@@ -35,7 +35,7 @@ https://cannavaro2010.github.io/Milestone.nov24/index.html
 
 - **Responsive Design**: The website is mobile-friendly, using **Bootstrap** to ensure it looks great on all devices.
 - **News Section**: Displays the latest news articles and updates using data sourced from **Sky News**.
-- **Weather Section**: Provides current weather information using the **UK Weather API**.
+- **Weather Section**: Provides weather information using the **UK Weather website**.
 - **Social Media Integration**: Displays social media icons for Facebook, Instagram, and Twitter in the footer using **Font Awesome**.
 - **Simple Navigation**: The website includes a navigation bar for easy access to the Home, Articles, and Contact pages.
 
