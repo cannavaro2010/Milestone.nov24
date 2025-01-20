@@ -6,7 +6,7 @@ Additionally, it integrates **Font Awesome** for social media icons in the foote
 
 ### Created By:
 **Youssef Abassir**
-Details of Value
+### Details of Value:
 Our website offers a unique and engaging platform for users to stay informed and connected with the latest news. By visiting our site, web users can expect to gain a range of valuable benefits that cater to diverse interests and needs.
 
 What Users Gain from Our Website:
