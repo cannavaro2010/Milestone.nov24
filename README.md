@@ -138,7 +138,7 @@ The W3C HTML Validator is a tool provided by the World Wide Web Consortium (W3C)
 
 3. Jigsaw
 Jigsaw is another tool provided by W3C, primarily used for testing the markup structure of web pages. It is similar to the W3C Validator but can offer more detailed insights into various markup and accessibility issues. The tool also highlights areas where the page structure deviates from established best practices.
-
+![screenshot](Img/Screenshot_20250128_030518_Chrome.jpg)
 4. Lighthouse
 Lighthouse is an open-source, automated tool developed by Google that audits web pages for performance, accessibility, best practices, and SEO. It provides actionable insights and scores across these categories to help developers optimize their websites. By using Lighthouse, we can assess how well our website performs across different devices and improve user experience.
 Key Metrics Lighthouse Evaluates:
